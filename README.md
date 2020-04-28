@@ -1,2 +1,0 @@
-# WebAdvancedTodoList
-Created with CodeSandbox
